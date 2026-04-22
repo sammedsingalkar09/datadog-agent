@@ -5,6 +5,22 @@
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
+         <loc>https://datadoghq.dev/datadog-agent/agent-schema/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://datadoghq.dev/datadog-agent/agent-schema/examples/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://datadoghq.dev/datadog-agent/agent-schema/faq/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://datadoghq.dev/datadog-agent/agent-schema/keywords/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
          <loc>https://datadoghq.dev/datadog-agent/architecture/dogstatsd/internals/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
@@ -102,6 +118,10 @@
     </url>
     <url>
          <loc>https://datadoghq.dev/datadog-agent/guidelines/deprecated-components-documentation/using-components/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://datadoghq.dev/datadog-agent/guidelines/languages/RUST/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
